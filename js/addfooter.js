@@ -14,8 +14,8 @@ var addFooter = function() {
             Tagensvej 188<br>\
             DK-2400 Copenhagen NV<br>\
             Denmark<br>\
-            Phone: +45 ## ## ## ##<br>\
-            <a href="mailto:contact@international-alc.dk" target="_top">contact@international-alc.dk</a>\
+            Phone: +45 61 47 61 00<br>\
+            <a href="mailto:bornenesvenner@outlook.dk" target="_top">bornenesvenner@outlook.dk</a>\
             </p>\
     </address>\
 	</footer>'
