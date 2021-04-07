@@ -2,7 +2,7 @@ var addHeader = function() {
     document.getElementsByClassName('mdl-layout')[0].innerHTML +=
     '<header class="mdl-layout__header">\
         <div class="mdl-layout__header-row">\
-            <span class="mdl-layout-title"><a href="index.html"><img src="images/linergame-logo.png" alt="LinerGame"></a></span>\
+            <span class="mdl-layout-title"><a href="index.html"><img src="images/unicorn-logo.png" alt="LinerGame"></a></span>\
         </div>\
     </header>\
     <div class="mdl-layout__drawer">\
