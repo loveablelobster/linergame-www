@@ -7,7 +7,7 @@ lighter orange/yellow: #E8A710
 */
 
 .mdl-layout__header {
-    background-color: black;
+    background-color: #9d5;
 }
 
 h1 {
@@ -44,7 +44,7 @@ img {
 }
 
 .adv-bg {
-    background: url(../images/bg.jpg) no-repeat center top fixed;
+    background: url(../images/billeder-alc/billedkunst.jpg) no-repeat center top fixed;
 }
 
 .support-bg {
@@ -87,7 +87,7 @@ img {
 }
 
 #heroimg {
-    background: url(../images/bg.jpg) no-repeat center center fixed;
+    background: url(../images/billeder-alc/billedkunst.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -103,19 +103,19 @@ img {
 }
 
 .linercard1 {
-    background: #E9560E;
+    background: #948;
 }
 
 .linercard2 {
-    background: #E8A710;
+    background: #497ddd;
 }
 
 .linercard3 {
-    background: lightgray;
+    background: #9b6f5b;
 }
 
 .linercard4 {
-    background: gray;
+    background: #f3e246;
 }
 
 .linercard5 {
