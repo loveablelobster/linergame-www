@@ -3,7 +3,7 @@ var addHeader = function() {
     '<header class="mdl-layout__header">\
     </header>\
     <div class="mdl-layout__drawer">\
-        <span class="mdl-layout-title">International ALC</span>\
+        <span class="mdl-layout-title">Agile Learning Center</span>\
         <nav class="mdl-navigation">\
             <a class="mdl-navigation__link" href="index.html">Hjem</a>\
             <a class="mdl-navigation__link" href="vaerdigrundlag.html">Værdigrundlag</a>\
