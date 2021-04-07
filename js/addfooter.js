@@ -10,18 +10,13 @@ var addFooter = function() {
         </div>\
         <div class="mdl-mega-footer--middle-section">\
             <address class="mdl-typography--font-light address">\
-            <p>LinerGame.com<br>\
-            Tagensvej 188, 1<br>\
+            <p>International ALC of Denmark<br>\
+            Tagensvej 188<br>\
             DK-2400 Copenhagen NV<br>\
             Denmark<br>\
-            Phone: +45 4141 8228<br>\
-            <a href="mailto:contact@linergame.com" target="_top">contact@linergame.com</a>\
+            Phone: +45 ## ## ## ##<br>\
+            <a href="mailto:contact@international-alc.dk" target="_top">contact@international-alc.dk</a>\
             </p>\
     </address>\
-        </div>\
-        <div class="mdl-mega-footer--bottom-section">\
-            <a class="mdl-typography--font-light" href="about.html">About</a>\
-            <a class="mdl-typography--font-light" href="contact.html">Contact</a>\
-        </div>\
-    </footer>'
+	</footer>'
 };
