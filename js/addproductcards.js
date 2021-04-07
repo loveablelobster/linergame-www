@@ -8,7 +8,7 @@ var addProductCards = function() {
                     <h2 class="mdl-card__title-text">Værdigrundlag</h2>\
                 </div>\
                 <div class="mdl-card__supporting-text">\
-                    Bla bla bla\
+                    På International ALC vil eleverne blive en del af et globalt miljø, hvor deres globale og interkulturelle kompetencer udvikles dagligt.\
                 </div>\
                 <div class="mdl-card__actions in-bottom">\
                     <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="vaerdigrundlag.html">\
@@ -21,7 +21,7 @@ var addProductCards = function() {
                     <h2 class="mdl-card__title-text">En dag i praksis</h2>\
                 </div>\
                 <div class="mdl-card__supporting-text">\
-                    Bla bla bla\
+                    Om morgenen mødes alle til fællessamling, hvor dagens, ugens, månedens og årets aktivitetetstilbud planlægges ud fra alle børnens ønsker.\
                 </div>\
                 <div class="mdl-card__actions in-bottom">\
                     <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="en-dag-i-praksis.html">\
@@ -34,7 +34,7 @@ var addProductCards = function() {
                     <h2 class="mdl-card__title-text">Lærer- og forældreengagement</h2>\
                 </div>\
                 <div class="mdl-card__supporting-text">\
-                    Bla bla bla\
+                    Lærernes opgave er at inspirere børnene inden for den enkeltes passion, at være de daglige rollemodeller, og at hjælpe børnene med at realisere deres projekter.\
                 </div>\
                 <div class="mdl-card__actions in-bottom">\
                     <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="laerer-foraeldre.html">\
@@ -47,7 +47,7 @@ var addProductCards = function() {
                     <h2 class="mdl-card__title-text">Vedtægter</h2>\
                 </div>\
                 <div class="mdl-card__supporting-text">\
-                    Bla bla bla\
+                    Vedtægter for den selvejende institution ”International ALC of Denmark”\
                 </div>\
                 <div class="mdl-card__actions in-bottom">\
                     <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="vedtaegter.html">\
